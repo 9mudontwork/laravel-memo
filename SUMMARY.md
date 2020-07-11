@@ -4,5 +4,6 @@
 
 ## เริ่มทำ API
 
+* [Guide](api/guide.md)
 * [ทำ Authentication สำหรับ API](api/authentication-api.md)
 
