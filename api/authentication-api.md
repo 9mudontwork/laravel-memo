@@ -14,5 +14,9 @@ description: >-
 
 Method นี้จะ register route ที่จำเป็นต้องใช้ token ทั้งหมด
 
+## ลบ Passport ออกจาก Project
+
+{% embed url="https://stackoverflow.com/questions/47567249/how-to-uninstall-laravel-passport" %}
+
 
 
