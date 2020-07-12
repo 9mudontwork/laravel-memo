@@ -1,10 +1,10 @@
 ---
 description: >-
-  เป็น package ที่ช่วยในการทำ authentication ด้วย Oauth 2.0 ทำตาม document
+  เป็น package ที่ช่วยในการทำ authentication แบบ Full Oauth 2.0 ทำตาม document
   ได้เลย
 ---
 
-# ทำ Authentication สำหรับ API
+# ทำ Auth ด้วย Passport
 
 ## Laravel Passport
 

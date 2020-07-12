@@ -5,5 +5,6 @@
 ## เริ่มทำ API
 
 * [Guide](api/guide.md)
-* [ทำ Authentication สำหรับ API](api/authentication-api.md)
+* [ทำ Auth ด้วย Passport](api/authentication-api.md)
+* [ทำ Auth ด้วย Sanctum](api/auth-sanctum.md)
 
