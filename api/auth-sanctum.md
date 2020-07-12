@@ -6,9 +6,27 @@ description: >-
 
 # ทำ Auth ด้วย Sanctum
 
-Laravel Sanctum
+## Laravel Sanctum
 
 {% embed url="https://laravel.com/docs/7.x/sanctum" %}
 
+หลังจากทำตาม document เรียบร้อยแล้วให้สร้าง seeder ง่ายๆ สำหรับสร้าง user
 
+```text
+php artisan make:seeder UsersTableSeeder
+```
+
+```text
+DB::table('users')->insert([
+    'name' => 'admin',
+    'email' => 'admin',
+    'password' => Hash::make('admin')
+]);
+```
+
+หลังจากนั้นก็ seed
+
+```text
+php artisan db:seed --class=UsersTableSeeder
+```
 
