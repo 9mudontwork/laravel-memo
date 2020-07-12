@@ -6,3 +6,9 @@ description: >-
 
 # ทำ Auth ด้วย Sanctum
 
+Laravel Sanctum
+
+{% embed url="https://laravel.com/docs/7.x/sanctum" %}
+
+
+
