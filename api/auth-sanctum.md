@@ -30,3 +30,9 @@ DB::table('users')->insert([
 php artisan db:seed --class=UsersTableSeeder
 ```
 
+เสร็จแล้วก็สร้าง controller สำหรับจัดการ user ขึ้นมา
+
+```text
+php artisan make:controller UserController
+```
+
