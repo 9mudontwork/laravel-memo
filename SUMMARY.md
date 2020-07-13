@@ -10,3 +10,7 @@
 * [ทำ Auth ด้วย Sanctum](api/auth-sanctum/README.md)
   * [Sanctum Guide](api/auth-sanctum/sanctum-guide.md)
 
+## Artisan Console
+
+* [สร้างฐานข้อมูล](artisan-console/undefined.md)
+

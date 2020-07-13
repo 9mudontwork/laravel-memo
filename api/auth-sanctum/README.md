@@ -13,7 +13,7 @@ description: >-
 หลังจากทำตาม document เรียบร้อยแล้วให้สร้าง seeder ง่ายๆ สำหรับสร้าง user
 
 ```text
-php artisan make:seeder UsersTableSeeder
+php artisan make:seeder UserSeeder
 ```
 
 ```text
@@ -27,7 +27,7 @@ DB::table('users')->insert([
 หลังจากนั้นก็ seed
 
 ```text
-php artisan db:seed --class=UsersTableSeeder
+php artisan db:seed --class=UserSeeder
 ```
 
 เสร็จแล้วก็สร้าง controller สำหรับจัดการ user ขึ้นมา
