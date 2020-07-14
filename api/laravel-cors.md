@@ -1,5 +1,7 @@
 ---
-description: package ช่วยจำกัด url ในการเข้าถึง api (เป็น default อยู่ใน version 7)
+description: >-
+  package ช่วยจำกัด url ในการเข้าถึง api (Cross-Origin Resource Sharing) (เป็น
+  default อยู่ใน version 7)
 ---
 
 # Laravel CORS
