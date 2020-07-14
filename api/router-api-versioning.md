@@ -50,7 +50,7 @@ protected function mapApiVersionOneRoutes()
 }
 ```
 
-หลังจากนั้นเรียกใช้ method map route ที่สร้างขึ้น ใน method `map()`
+หลังจากนั้นเรียกใช้ method map route ที่สร้างขึ้นมา ใน method `public function map()`
 
 ```php
 $this->mapApiVersionOneRoutes();
