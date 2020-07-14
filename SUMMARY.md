@@ -10,7 +10,7 @@
 * [ทำ Auth ด้วย Sanctum](api/auth-sanctum/README.md)
   * [Sanctum Guide](api/auth-sanctum/sanctum-guide.md)
 * [Laravel CORS](api/laravel-cors.md)
-* [การทำ route api versioning](api/router-api-versioning.md)
+* [การทำ route api versioning เบื้องต้น](api/router-api-versioning.md)
 
 ## Artisan Console
 
