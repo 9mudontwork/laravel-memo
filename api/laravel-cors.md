@@ -6,6 +6,8 @@ description: >-
 
 # Laravel CORS
 
+Laravel 7 มี CORS Support อยู่แล้ว
+
 {% embed url="https://github.com/fruitcake/laravel-cors" %}
 
 ไฟล์ที่เกี่ยวข้องกับ package นี้
