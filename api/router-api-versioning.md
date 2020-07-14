@@ -1,5 +1,11 @@
 # การทำ route api versioning
 
+## Guide
+
+{% embed url="https://medium.com/parenting-tw/custom-api-versioning-route-file-in-laravel-b65e637dfbaf" %}
+
+
+
 แก้ไข route middleware ในตัวแปร $middlewareGroups ที่ไฟล์
 
 ```php
