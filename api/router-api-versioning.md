@@ -32,7 +32,7 @@ app\Providers\RouteServiceProvider.php
 ```php
 private function getApiNamespace($versionNumber)
 {
-    return "{$this->namesapce}\Api\V{$versionNumber}";
+    return "{$this->namespace}\Api\V{$versionNumber}";
 }
 ```
 
@@ -44,7 +44,7 @@ protected function mapApiVersionOneRoutes()
     Route::prefix('api/v1')
         ->middleware('api.v1')
         ->namespace($this->getApiNamespace(1))
-        ->group(base_path('routes/v1/api.php'));
+        ->group(base_path('routes/api/v1.php'));
 }
 ```
 
