@@ -1,6 +1,21 @@
 # การทำ route api versioning
 
-แก้ไขที่ไฟล์
+แก้ไข route middleware ในตัวแปร $middlewareGroups ที่ไฟล์
+
+```php
+app\Http\Kernel.php
+```
+
+คัดลอกโค้ด array api ของเก่าแล้วเพิ่มเข้าไป
+
+```php
+'api.v1' => [
+    'throttle:60,1',
+    \Illuminate\Routing\Middleware\SubstituteBindings::class,
+],
+```
+
+หลังจากนั้นแก้ map route ที่ไฟล์
 
 ```text
 app\Providers\RouteServiceProvider.php
