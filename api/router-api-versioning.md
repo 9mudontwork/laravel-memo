@@ -1,8 +1,10 @@
 # การทำ route api versioning เบื้องต้น
 
-## Guide
+## Reference
 
 {% embed url="https://medium.com/parenting-tw/custom-api-versioning-route-file-in-laravel-b65e637dfbaf" %}
+
+{% embed url="https://www.mynotepaper.com/laravel-api-versioning-with-api-key-in-simple-method/" %}
 
 
 
