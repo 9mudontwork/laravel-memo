@@ -9,6 +9,7 @@
   * [Passport Guide](api/authentication-api/passport-guide.md)
 * [ทำ Auth ด้วย Sanctum](api/auth-sanctum/README.md)
   * [Sanctum Guide](api/auth-sanctum/sanctum-guide.md)
+* [Laravel CORS](api/laravel-cors.md)
 
 ## Artisan Console
 
