@@ -54,3 +54,48 @@ protected function mapApiVersionOneRoutes()
 $this->mapApiVersionOneRoutes();
 ```
 
+สร้างไฟล์ v1.php ที่
+
+```php
+routes\api
+```
+
+กำหนด route เริ่มต้น
+
+```php
+<?php
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+
+Route::get('/', 'WelcomeController@index');
+
+```
+
+ใช้คำสั่ง artisan เพื่อสร้างไฟล์ controller
+
+```bash
+php artisan make:controller API\V1\WelcomeController
+```
+
+```php
+<?php
+
+namespace App\Http\Controllers\API\V1;
+
+use App\Http\Controllers\Controller;
+use Illuminate\Http\Request;
+
+class WelcomeController extends Controller
+{
+    public function index()
+    {
+        $response = [
+            'message' => "olomanga API V1",
+        ];
+
+        return response()->json($response, 200);
+    }
+}
+```
+
