@@ -8,7 +8,7 @@
 
 
 
-แก้ไข route middleware ในตัวแปร $middlewareGroups ที่ไฟล์
+แก้ไข route middleware ในตัวแปร `$middlewareGroups` ที่ไฟล์
 
 ```php
 app\Http\Kernel.php
@@ -50,13 +50,13 @@ protected function mapApiVersionOneRoutes()
 }
 ```
 
-หลังจากนั้นเรียกใช้ method map route ที่สร้างขึ้น ใน method map\(\)
+หลังจากนั้นเรียกใช้ method map route ที่สร้างขึ้น ใน method `map()`
 
 ```php
 $this->mapApiVersionOneRoutes();
 ```
 
-สร้างไฟล์ v1.php ที่
+สร้างไฟล์ `v1.php` ที่
 
 ```php
 routes\api
@@ -74,7 +74,7 @@ Route::get('/', 'WelcomeController@index');
 
 ```
 
-ใช้คำสั่ง artisan เพื่อสร้างไฟล์ controller
+ใช้คำสั่ง `artisan` เพื่อสร้างไฟล์ `controller`
 
 ```bash
 php artisan make:controller API\V1\WelcomeController
