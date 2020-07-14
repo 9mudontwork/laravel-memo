@@ -2,7 +2,7 @@
 
 * [บันทึกสิ่งต่าง ๆ เกี่ยวกับ Laravel 7](README.md)
 
-## เริ่มทำ API
+## ทำ API
 
 * [Guide](api/guide.md)
 * [ทำ Auth ด้วย Passport](api/authentication-api/README.md)
