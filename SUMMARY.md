@@ -16,3 +16,7 @@
 
 * [สร้างฐานข้อมูล](artisan-console/undefined.md)
 
+---
+
+* [กำลัง research](research.md)
+
