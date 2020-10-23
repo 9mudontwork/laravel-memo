@@ -16,7 +16,7 @@
 
 * [สร้างฐานข้อมูล](artisan-console/undefined.md)
 
----
+## Laravel 6
 
-* [กำลัง research](research.md)
+* [กำลัง research](laravel-6/research.md)
 
