@@ -2,7 +2,15 @@
 
 ## ติดตั้ง Extension ของ vs code
 
+ตัวช่วย format code + ทำให้ vscode ฉลาดขึ้น
+
 {% embed url="https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client" %}
+
+ตัวช่วย import class มันจะเพิ่ม namespace ให้อัตโนมัติ
+
+{% embed url="https://marketplace.visualstudio.com/items?itemName=MehediDracula.php-namespace-resolver" %}
+
+
 
 ## ติดตั้ง laravel-ide-helper
 
