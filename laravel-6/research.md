@@ -1,8 +1,6 @@
 # กำลัง research
 
-## [https://www.itoffside.com/category/laravel/page/2/](https://www.itoffside.com/category/laravel/page/2/)
-
-## 
+## [https://www.itoffside.com/category/laravel/](https://www.itoffside.com/category/laravel/)
 
 ## เครื่องมือ back office
 
