@@ -31,7 +31,13 @@
 }
 ```
 
-## ติดตั้ง laravel-ide-helper
+### ตัวช่วยทำให้ blade.php แยกสี อ่านง่าย
+
+{% embed url="https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade" %}
+
+
+
+## ติดตั้ง laravel-ide-helper \(ตัวช่วยทำให้ vscode รู้จัก class ของ laravel\)
 
 {% embed url="https://github.com/barryvdh/laravel-ide-helper" %}
 
