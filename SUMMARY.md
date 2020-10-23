@@ -19,5 +19,6 @@
 ## Laravel 6
 
 * [กำลัง research](laravel-6/research.md)
+* [จำเป็นสำหรับการ Dev เพื่อให้เป็นมาตรฐานเดียวกัน](laravel-6/dev.md)
 * [ติดตั้ง Voyager](laravel-6/voyager.md)
 
