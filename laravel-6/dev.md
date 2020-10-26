@@ -45,6 +45,7 @@
 
 ```text
 php artisan ide-helper:generate
+php artisan ide-helper:meta
 ```
 
 ### ตั้งค่าในไฟล์ composer.json
