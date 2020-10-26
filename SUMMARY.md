@@ -18,6 +18,7 @@
 
 ---
 
+* [Best Practice](best-practice.md)
 * [Artisan Cheat Sheet](artisan-cheat-sheet.md)
 
 ## Laravel 6
