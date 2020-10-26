@@ -1,6 +1,6 @@
 # Table of contents
 
-* [บันทึกสิ่งต่าง ๆ เกี่ยวกับ Laravel 7](README.md)
+* [บันทึกสิ่งต่าง ๆ เกี่ยวกับ Laravel](README.md)
 
 ## ทำ API
 
@@ -15,6 +15,10 @@
 ## Artisan Console
 
 * [สร้างฐานข้อมูล](artisan-console/undefined.md)
+
+---
+
+* [Artisan Cheat Sheet](artisan-cheat-sheet.md)
 
 ## Laravel 6
 
