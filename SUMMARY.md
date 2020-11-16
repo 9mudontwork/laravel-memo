@@ -23,7 +23,8 @@
 
 ## Laravel 6
 
-* [กำลัง research](laravel-6/research.md)
+* [กำลัง research](laravel-6/research/README.md)
+  * [Validation](laravel-6/research/validation.md)
 * [จำเป็นสำหรับการ Dev เพื่อให้เป็นมาตรฐานเดียวกัน](laravel-6/dev.md)
 * [ติดตั้ง Voyager สำหรับทำ backed](laravel-6/voyager.md)
 
