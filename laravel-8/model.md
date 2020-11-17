@@ -20,15 +20,26 @@ class User extends Model
     /**
      * field ที่เปิดใช้งาน
      */
-    protected $fillable = ['name'];
+    protected $fillable = [
+        'username',
+        'email',
+        'password_hash',
+        'access_token',
+        'site',
+        'active',
+        'registration_ip',
+        'last_login_at',
+        'created_at',
+        'updated_at',
+    ];
 
 
     /**
      * ซ่อน field ที่ไม่ต้องการให้แสดงออกไป
      */
     protected $hidden = [
-        'password',
-        'remember_token',
+        'password_hash',
+        'access_token',
     ];
 
 
@@ -38,6 +49,7 @@ class User extends Model
      * Laravel จะใช้ package Carbon ในการจัดการวันที่
      */
     protected $dates = [
+        'last_login_at',
         'created_at',
         'updated_at',
     ];
