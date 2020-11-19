@@ -24,6 +24,7 @@
 ## Laravel 8
 
 * [ตัวอย่าง Model](laravel-8/model/README.md)
+  * [Attacth Sync](laravel-8/model/attacth-sync.md)
   * [Model](laravel-8/model/model-1/README.md)
     * [Attribute](laravel-8/model/model-1/attribute.md)
     * [Method](laravel-8/model/model-1/method.md)
