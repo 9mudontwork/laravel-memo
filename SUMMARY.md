@@ -23,7 +23,11 @@
 
 ## Laravel 8
 
-* [ตัวอย่าง Model](laravel-8/model.md)
+* [ตัวอย่าง Model](laravel-8/model/README.md)
+  * [Model](laravel-8/model/model-1/README.md)
+    * [Attribute](laravel-8/model/model-1/attribute.md)
+  * [Method](laravel-8/model/method.md)
+  * [Relationship](laravel-8/model/relationship.md)
 * [กำลัง research](laravel-8/research/README.md)
   * [Validation](laravel-8/research/validation.md)
 * [จำเป็นสำหรับการ Dev เพื่อให้เป็นมาตรฐานเดียวกัน](laravel-8/dev.md)
