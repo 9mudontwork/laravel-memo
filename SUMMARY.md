@@ -41,4 +41,13 @@
 * [ตั้งค่า lumen](lumen/lumen.md)
 * [ติดตั้ง dingo api](lumen/dingo-api.md)
 * [ติดตั้ง laravel permission](lumen/laravel-permission.md)
+* [ติดตั้ง hashids](lumen/hashids.md)
+* [ติดตั้ง laravel cors](lumen/laravel-cors.md)
+* [ติดตั้ง lumen passport](lumen/lumen-passport.md)
+* [ติดตั้ง ระบบสมาชิก](lumen/undefined-1/README.md)
+  * [สร้าง model user role permission](lumen/undefined-1/model-user-role-permission.md)
+  * [migrate และ seed](lumen/undefined-1/migrate-seed.md)
+* [controller และ transformer](lumen/controller-transformer.md)
+* [backend controller](lumen/backend-controller/README.md)
+  * [โครงสร้าง folder file](lumen/backend-controller/folder-file.md)
 
