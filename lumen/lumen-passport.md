@@ -126,3 +126,13 @@ php artisan migrate:fresh --force
 
 ต่อไปสร้างฐานข้อมูล user
 
+## ถ้าติดปัญหา ให้ดู issue นี้
+
+{% embed url="https://github.com/laravel/passport/issues/1274" %}
+
+
+
+{% embed url="https://github.com/dusterio/lumen-passport/issues/136" %}
+
+
+
