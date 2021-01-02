@@ -39,4 +39,5 @@
 
 * [ติดตั้ง](lumen/undefined.md)
 * [ตั้งค่า lumen](lumen/lumen.md)
+* [ติดตั้ง dingo api](lumen/dingo-api.md)
 
