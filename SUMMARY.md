@@ -53,5 +53,5 @@
 
 ## Lumen 8
 
-* [ติดตั้ง dingo api](lumen-8/dingo-api.md)
+* [dingo api](lumen-8/dingo-api.md)
 
