@@ -35,7 +35,7 @@
 * [จำเป็นสำหรับการ Dev เพื่อให้เป็นมาตรฐานเดียวกัน](laravel-8/dev.md)
 * [ติดตั้ง Voyager สำหรับทำ backed](laravel-8/voyager.md)
 
-## Lumen
+## Lumen \(บันทึกเก่า\)
 
 * [ติดตั้ง](lumen/undefined.md)
 * [ตั้งค่า lumen](lumen/lumen.md)
